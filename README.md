@@ -1,4 +1,4 @@
 # Common Messaging
 
 #### Manual:
-http://van-de-bugs.github.io/common-messaging/manual/
+http://ndebugs.github.io/common-messaging/manual/
